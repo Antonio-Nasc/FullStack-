@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\bin\Debug\net6.0\ex maior e menor.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\bin\Debug\net6.0\ex maior e menor.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\bin\Debug\net6.0\ex maior e menor.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\bin\Debug\net6.0\ex maior e menor.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\bin\Debug\net6.0\ex maior e menor.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\refint\ex maior e menor.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ex maior e menor.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex maior e menor\obj\Debug\net6.0\ref\ex maior e menor.dll

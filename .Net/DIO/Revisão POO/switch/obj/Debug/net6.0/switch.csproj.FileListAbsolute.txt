@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\bin\Debug\net6.0\switch.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\bin\Debug\net6.0\switch.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\bin\Debug\net6.0\switch.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\bin\Debug\net6.0\switch.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\bin\Debug\net6.0\switch.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\refint\switch.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\switch.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\switch\obj\Debug\net6.0\ref\switch.dll

@@ -1,0 +1,30 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\bin\Debug\net6.0\ex Maior idade.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\bin\Debug\net6.0\ex Maior idade.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\bin\Debug\net6.0\ex Maior idade.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\bin\Debug\net6.0\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\bin\Debug\net6.0\ex Maior idade.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\refint\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ex Maior idade.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex Maior idade\obj\Debug\net6.0\ref\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\bin\Debug\net6.0\ex Maior idade.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\bin\Debug\net6.0\ex Maior idade.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\bin\Debug\net6.0\ex Maior idade.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\bin\Debug\net6.0\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\bin\Debug\net6.0\ex Maior idade.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\refint\ex Maior idade.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ex Maior idade.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex Maior idade\obj\Debug\net6.0\ref\ex Maior idade.dll

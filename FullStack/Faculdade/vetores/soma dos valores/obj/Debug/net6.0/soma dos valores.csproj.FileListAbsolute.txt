@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\bin\Debug\net6.0\soma dos valores.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\bin\Debug\net6.0\soma dos valores.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\bin\Debug\net6.0\soma dos valores.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\bin\Debug\net6.0\soma dos valores.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\bin\Debug\net6.0\soma dos valores.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\refint\soma dos valores.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\soma dos valores.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\soma dos valores\obj\Debug\net6.0\ref\soma dos valores.dll

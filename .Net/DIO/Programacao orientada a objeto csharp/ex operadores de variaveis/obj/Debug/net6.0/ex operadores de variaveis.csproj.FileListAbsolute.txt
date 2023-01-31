@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\bin\Debug\net6.0\ex operadores de variaveis.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\bin\Debug\net6.0\ex operadores de variaveis.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\bin\Debug\net6.0\ex operadores de variaveis.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\bin\Debug\net6.0\ex operadores de variaveis.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\bin\Debug\net6.0\ex operadores de variaveis.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\refint\ex operadores de variaveis.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ex operadores de variaveis.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores de variaveis\obj\Debug\net6.0\ref\ex operadores de variaveis.dll

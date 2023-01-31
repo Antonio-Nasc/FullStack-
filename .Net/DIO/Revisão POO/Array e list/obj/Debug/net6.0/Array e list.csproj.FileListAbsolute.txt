@@ -1,0 +1,5 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\Array e list\obj\Debug\net6.0\Array e list.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\Array e list\obj\Debug\net6.0\Array e list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\Array e list\obj\Debug\net6.0\Array e list.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\Array e list\obj\Debug\net6.0\Array e list.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\Array e list\obj\Debug\net6.0\Array e list.csproj.CoreCompileInputs.cache

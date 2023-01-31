@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\bin\Debug\net6.0\ex calculadora.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\bin\Debug\net6.0\ex calculadora.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\bin\Debug\net6.0\ex calculadora.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\bin\Debug\net6.0\ex calculadora.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\bin\Debug\net6.0\ex calculadora.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\refint\ex calculadora.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ex calculadora.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex calculadora\obj\Debug\net6.0\ref\ex calculadora.dll

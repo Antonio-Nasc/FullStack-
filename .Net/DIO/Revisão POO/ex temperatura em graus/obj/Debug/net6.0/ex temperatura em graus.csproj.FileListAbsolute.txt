@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\bin\Debug\net6.0\ex temperatura em graus.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\bin\Debug\net6.0\ex temperatura em graus.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\bin\Debug\net6.0\ex temperatura em graus.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\bin\Debug\net6.0\ex temperatura em graus.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\bin\Debug\net6.0\ex temperatura em graus.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\refint\ex temperatura em graus.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ex temperatura em graus.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex temperatura em graus\obj\Debug\net6.0\ref\ex temperatura em graus.dll

@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\bin\Debug\net6.0\ex media final aluno.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\bin\Debug\net6.0\ex media final aluno.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\bin\Debug\net6.0\ex media final aluno.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\bin\Debug\net6.0\ex media final aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\bin\Debug\net6.0\ex media final aluno.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\refint\ex media final aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ex media final aluno.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex media final aluno\obj\Debug\net6.0\ref\ex media final aluno.dll

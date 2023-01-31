@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\bin\Debug\net6.0\ex troco.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\bin\Debug\net6.0\ex troco.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\bin\Debug\net6.0\ex troco.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\bin\Debug\net6.0\ex troco.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\bin\Debug\net6.0\ex troco.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\refint\ex troco.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ex troco.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex troco\obj\Debug\net6.0\ref\ex troco.dll

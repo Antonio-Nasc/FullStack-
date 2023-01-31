@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\bin\Debug\net6.0\ex compra de sorvete.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\bin\Debug\net6.0\ex compra de sorvete.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\bin\Debug\net6.0\ex compra de sorvete.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\bin\Debug\net6.0\ex compra de sorvete.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\bin\Debug\net6.0\ex compra de sorvete.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\refint\ex compra de sorvete.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ex compra de sorvete.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex compra de sorvete\obj\Debug\net6.0\ref\ex compra de sorvete.dll

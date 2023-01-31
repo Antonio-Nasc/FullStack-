@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\bin\Debug\net6.0\ex poo abstracao.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\bin\Debug\net6.0\ex poo abstracao.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\bin\Debug\net6.0\ex poo abstracao.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\bin\Debug\net6.0\ex poo abstracao.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\bin\Debug\net6.0\ex poo abstracao.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\refint\ex poo abstracao.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ex poo abstracao.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex poo abstracao\obj\Debug\net6.0\ref\ex poo abstracao.dll

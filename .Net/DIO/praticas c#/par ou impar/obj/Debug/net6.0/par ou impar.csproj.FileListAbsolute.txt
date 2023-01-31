@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\bin\Debug\net6.0\par ou impar.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\bin\Debug\net6.0\par ou impar.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\bin\Debug\net6.0\par ou impar.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\bin\Debug\net6.0\par ou impar.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\bin\Debug\net6.0\par ou impar.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\refint\par ou impar.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\par ou impar.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\par ou impar\obj\Debug\net6.0\ref\par ou impar.dll

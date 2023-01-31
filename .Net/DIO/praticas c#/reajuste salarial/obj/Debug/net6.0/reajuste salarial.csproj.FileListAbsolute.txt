@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\bin\Debug\net6.0\reajuste salarial.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\bin\Debug\net6.0\reajuste salarial.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\bin\Debug\net6.0\reajuste salarial.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\bin\Debug\net6.0\reajuste salarial.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\bin\Debug\net6.0\reajuste salarial.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\refint\reajuste salarial.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\reajuste salarial.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\reajuste salarial\obj\Debug\net6.0\ref\reajuste salarial.dll

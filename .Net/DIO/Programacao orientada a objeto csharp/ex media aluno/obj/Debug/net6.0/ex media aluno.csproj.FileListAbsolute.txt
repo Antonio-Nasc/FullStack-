@@ -1,0 +1,30 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\bin\Debug\net6.0\ex media aluno.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\bin\Debug\net6.0\ex media aluno.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\bin\Debug\net6.0\ex media aluno.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\bin\Debug\net6.0\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\bin\Debug\net6.0\ex media aluno.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\refint\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ex media aluno.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex media aluno\obj\Debug\net6.0\ref\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\bin\Debug\net6.0\ex media aluno.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\bin\Debug\net6.0\ex media aluno.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\bin\Debug\net6.0\ex media aluno.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\bin\Debug\net6.0\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\bin\Debug\net6.0\ex media aluno.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\refint\ex media aluno.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ex media aluno.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Programacao orientada a objeto csharp\ex media aluno\obj\Debug\net6.0\ref\ex media aluno.dll

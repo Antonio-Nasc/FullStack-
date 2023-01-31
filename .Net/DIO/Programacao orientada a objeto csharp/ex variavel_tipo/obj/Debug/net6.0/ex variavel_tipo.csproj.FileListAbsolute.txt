@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\bin\Debug\net6.0\ex variavel_tipo.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\bin\Debug\net6.0\ex variavel_tipo.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\bin\Debug\net6.0\ex variavel_tipo.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\bin\Debug\net6.0\ex variavel_tipo.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\bin\Debug\net6.0\ex variavel_tipo.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\refint\ex variavel_tipo.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ex variavel_tipo.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex variavel_tipo\obj\Debug\net6.0\ref\ex variavel_tipo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex temperatura em graus/1.0.0": {
+        "runtime": {
+          "ex temperatura em graus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex temperatura em graus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

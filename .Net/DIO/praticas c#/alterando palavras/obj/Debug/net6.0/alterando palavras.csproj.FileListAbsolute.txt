@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\bin\Debug\net6.0\alterando palavras.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\bin\Debug\net6.0\alterando palavras.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\bin\Debug\net6.0\alterando palavras.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\bin\Debug\net6.0\alterando palavras.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\bin\Debug\net6.0\alterando palavras.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\refint\alterando palavras.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\alterando palavras.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\praticas c#\alterando palavras\obj\Debug\net6.0\ref\alterando palavras.dll

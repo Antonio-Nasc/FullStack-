@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\bin\Debug\net6.0\ex array.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\bin\Debug\net6.0\ex array.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\bin\Debug\net6.0\ex array.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\bin\Debug\net6.0\ex array.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\bin\Debug\net6.0\ex array.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\refint\ex array.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ex array.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex array\obj\Debug\net6.0\ref\ex array.dll

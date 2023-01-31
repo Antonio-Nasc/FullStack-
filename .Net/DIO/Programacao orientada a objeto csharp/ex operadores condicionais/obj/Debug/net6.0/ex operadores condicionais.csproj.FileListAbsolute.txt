@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\bin\Debug\net6.0\ex operadores condicionais.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\bin\Debug\net6.0\ex operadores condicionais.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\bin\Debug\net6.0\ex operadores condicionais.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\bin\Debug\net6.0\ex operadores condicionais.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\bin\Debug\net6.0\ex operadores condicionais.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\refint\ex operadores condicionais.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ex operadores condicionais.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex operadores condicionais\obj\Debug\net6.0\ref\ex operadores condicionais.dll

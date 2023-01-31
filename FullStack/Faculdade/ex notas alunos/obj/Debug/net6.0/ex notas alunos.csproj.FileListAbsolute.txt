@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\bin\Debug\net6.0\ex notas alunos.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\bin\Debug\net6.0\ex notas alunos.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\bin\Debug\net6.0\ex notas alunos.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\bin\Debug\net6.0\ex notas alunos.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\bin\Debug\net6.0\ex notas alunos.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\refint\ex notas alunos.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ex notas alunos.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex notas alunos\obj\Debug\net6.0\ref\ex notas alunos.dll

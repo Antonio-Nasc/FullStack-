@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\bin\Debug\net6.0\ex valores pares.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\bin\Debug\net6.0\ex valores pares.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\bin\Debug\net6.0\ex valores pares.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\bin\Debug\net6.0\ex valores pares.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\bin\Debug\net6.0\ex valores pares.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\refint\ex valores pares.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ex valores pares.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\ex valores pares\obj\Debug\net6.0\ref\ex valores pares.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex sistema para estacionamento/1.0.0": {
+        "runtime": {
+          "ex sistema para estacionamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex sistema para estacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\bin\Debug\net6.0\ex sistema para estacionamento.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\bin\Debug\net6.0\ex sistema para estacionamento.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\bin\Debug\net6.0\ex sistema para estacionamento.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\bin\Debug\net6.0\ex sistema para estacionamento.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\bin\Debug\net6.0\ex sistema para estacionamento.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\refint\ex sistema para estacionamento.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ex sistema para estacionamento.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex sistema para estacionamento\obj\Debug\net6.0\ref\ex sistema para estacionamento.dll

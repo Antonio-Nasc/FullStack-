@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\bin\Debug\net6.0\nome.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\bin\Debug\net6.0\nome.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\bin\Debug\net6.0\nome.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\bin\Debug\net6.0\nome.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\bin\Debug\net6.0\nome.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\refint\nome.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\nome.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\FullStack\Faculdade\vetores\nome\obj\Debug\net6.0\ref\nome.dll

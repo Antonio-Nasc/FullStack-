@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\bin\Debug\net6.0\ex estagio.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\bin\Debug\net6.0\ex estagio.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\bin\Debug\net6.0\ex estagio.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\bin\Debug\net6.0\ex estagio.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\bin\Debug\net6.0\ex estagio.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\refint\ex estagio.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ex estagio.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex estagio\obj\Debug\net6.0\ref\ex estagio.dll

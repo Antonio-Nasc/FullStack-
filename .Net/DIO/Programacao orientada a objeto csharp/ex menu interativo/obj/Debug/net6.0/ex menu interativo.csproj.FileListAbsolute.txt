@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\bin\Debug\net6.0\ex menu interativo.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\bin\Debug\net6.0\ex menu interativo.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\bin\Debug\net6.0\ex menu interativo.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\bin\Debug\net6.0\ex menu interativo.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\bin\Debug\net6.0\ex menu interativo.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\refint\ex menu interativo.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ex menu interativo.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex menu interativo\obj\Debug\net6.0\ref\ex menu interativo.dll

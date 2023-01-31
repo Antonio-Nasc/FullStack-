@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\bin\Debug\net6.0\ex do while.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\bin\Debug\net6.0\ex do while.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\bin\Debug\net6.0\ex do while.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\bin\Debug\net6.0\ex do while.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\bin\Debug\net6.0\ex do while.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\refint\ex do while.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ex do while.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex do while\obj\Debug\net6.0\ref\ex do while.dll

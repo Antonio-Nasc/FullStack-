@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\bin\Debug\net6.0\ex list.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\bin\Debug\net6.0\ex list.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\bin\Debug\net6.0\ex list.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\bin\Debug\net6.0\ex list.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\bin\Debug\net6.0\ex list.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\refint\ex list.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ex list.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\ex list\obj\Debug\net6.0\ref\ex list.dll

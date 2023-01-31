@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\bin\Debug\net6.0\ex IMC.exe
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\bin\Debug\net6.0\ex IMC.deps.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\bin\Debug\net6.0\ex IMC.runtimeconfig.json
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\bin\Debug\net6.0\ex IMC.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\bin\Debug\net6.0\ex IMC.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\refint\ex IMC.dll
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.pdb
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ex IMC.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Área de Trabalho\Estudos\.Net\DIO\Revisão\ex IMC\obj\Debug\net6.0\ref\ex IMC.dll

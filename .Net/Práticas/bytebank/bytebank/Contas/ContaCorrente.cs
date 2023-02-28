@@ -3,27 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using bytebank.Titular;
 
-namespace bytebank
+namespace bytebank.Contas
 {
     public class ContaCorrente
     {
         public int numero_agencia;
         public string conta;
-        public string titular;
+        public Cliente titular;
         public double saldo;
 
         public void Depositar(double valor)
         {
-            this.saldo += valor;
+            saldo += valor;
         }
         public bool Sacar(double valor)
         {
-            if(valor <= this.saldo)
+            if (valor <= saldo)
             {
-                this.saldo -= valor;
+                saldo -= valor;
                 return true;
-            } else
+            }
+            else
             {
                 return false;
             }
@@ -31,17 +33,25 @@ namespace bytebank
 
         public bool Transferir(double valor, ContaCorrente destino)
         {
-            if(this.saldo < valor)
+            if (saldo < valor)
             {
                 return false;
             }
             else
             {
-                this.Sacar(valor);
+                Sacar(valor);
                 destino.Depositar(valor);
                 return true;
             }
         }
+
+        //public void Informar()
+        //{
+        //    Console.WriteLine("Titular: " + titular);
+        //    Console.WriteLine("Conta: " + conta);
+        //    Console.WriteLine("Número da agencia: " + numero_agencia);
+        //    Console.WriteLine("Saldo: " + saldo);
+        //}
     }
 
 

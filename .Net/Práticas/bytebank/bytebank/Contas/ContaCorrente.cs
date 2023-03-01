@@ -8,11 +8,28 @@ using bytebank.Titular;
 namespace bytebank.Contas
 {
     public class ContaCorrente
-    {
-        public int numero_agencia;
-        public string conta;
-        public Cliente titular;
-        public double saldo;
+    {   
+        public static int TotalDeContasCriadas { get; private set; }
+        private int numero_agencia;
+        public int Numero_agencia
+        {
+            get { return numero_agencia; }
+            private set
+            {
+                if (value > 0)
+                {
+                    numero_agencia = value;
+                }
+            }
+        }
+        //Auto implementaçao
+        //private string conta;
+        public string Conta { get; set; }
+        
+        public Cliente Titular { get; set; }
+        private double saldo = 100;
+        public double Saldo { get; set; }   
+
 
         public void Depositar(double valor)
         {
@@ -45,14 +62,29 @@ namespace bytebank.Contas
             }
         }
 
-        //public void Informar()
-        //{
-        //    Console.WriteLine("Titular: " + titular);
-        //    Console.WriteLine("Conta: " + conta);
-        //    Console.WriteLine("Número da agencia: " + numero_agencia);
-        //    Console.WriteLine("Saldo: " + saldo);
-        //}
+        public void Informar()
+        {
+            Console.WriteLine("Titular: " + Titular);
+            Console.WriteLine("Conta: " + Conta);
+            Console.WriteLine("Número da agencia: " + numero_agencia);
+            Console.WriteLine("Saldo: " + saldo);
+        }
+
+
+        //Criação de construtor
+        //O construtor fará com que as informações criadas aqui, ao ser jogada no programa, deverão ser obrigatoriamente utilizada.
+
+        public ContaCorrente(int numero_agencia, string numero_conta)
+        {
+            Numero_agencia= numero_agencia;
+            Conta = numero_conta;
+            TotalDeContasCriadas++;
+
+        }
+
+        //Ao criar um outro construtor fácil, fica de escolha passar logo as informações
     }
+
 
 
 }

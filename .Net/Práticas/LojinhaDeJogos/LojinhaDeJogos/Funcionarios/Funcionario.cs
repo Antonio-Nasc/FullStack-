@@ -6,14 +6,23 @@ using System.Threading.Tasks;
 
 namespace LojinhaDeJogos.Funcionarios
 {
-    public class Funcionario
+    public abstract class Funcionario
     {
-        public string Nome { get; set; }
-        public string Cpf { get; set; }
+        public Funcionario(string nome, string cpf, double salario)
+        {
+            this.Nome = nome;
+            this.Cpf = cpf;
+            this.Salario = salario;
+        }
+    
+        public string Nome { get; private set; }
+        public string Cpf { get; private set; }
         public string Email { get; set; }
-        public double Salario { get; set; }
+        public double Salario { get; protected set; }
 
-        public virtual double Comissao();
+        public abstract double Comissao();
+
+        public abstract void AumentarSalario();
         
     }
 }

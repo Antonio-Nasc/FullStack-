@@ -8,9 +8,14 @@ namespace Livros.Book
 {
     public class Livro
     {
-        public string Titulo { get; set; }
+        public Livro(string titulo, string isbn)
+        {
+            this.Titulo = titulo;
+            this.Isbn = isbn;
+        }
+        public string Titulo { get; private set; }
         public string Autor { get; set; }
-        public string Isbn { get; set; }
+        public string Isbn { get; private set; }
         public int AnoDePublicacao { get; set; }
         public string EstiloLiterario { get; set; }
         public int NumeroDePaginas { get; set; }
